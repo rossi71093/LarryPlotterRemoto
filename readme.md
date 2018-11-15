@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Rossy **, alumna de Git.
+**Rossy **, alumna de Git, de iOS y Processing.
